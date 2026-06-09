@@ -1,0 +1,6 @@
+{
+  "name": "Khapul",
+  "description": "A secure community-led transit and itemized errand dispatch application connecting local members with verified drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
